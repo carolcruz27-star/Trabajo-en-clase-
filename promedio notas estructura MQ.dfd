@@ -1,0 +1,98 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+sumanotas
+2
+ 0
+19
+contadorestudiantes
+2
+ 0
+4
+nota
+2
+ 0
+9
+1
+10
+nota != -1
+4
+1
+41
+'ingrese la nota del estudiante de 0 a 5'
+5
+1
+4
+nota
+7
+0
+1
+10
+nota != -1
+4
+1
+18
+'nota incorrecta' 
+13
+6
+2
+4
+nota
+1
+0
+4
+nota
+1
+5
+6
+2
+9
+sumanotas
+14
+sumanotas+nota
+19
+contadorestudiantes
+21
+contadorestudiantes+1
+13
+7
+0
+1
+23
+contadorestudiantes > 0
+4
+1
+24
+'no se ingresaron notas'
+13
+6
+1
+8
+promedio
+29
+sumanotas/contadorestudiantes
+4
+1
+45
+'total de estudiantes: ', contadorestudiantes
+4
+1
+32
+'promedio del curso: ', promedio
+13
+4
+1
+42
+'presione un numero cualquiera para salir'
+5
+1
+3
+num
+11
+1
